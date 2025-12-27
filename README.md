@@ -15,9 +15,6 @@ I am a BCA graduate with a passion for coding and web development, specializing 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Niraj-2710&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Niraj-2710&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
